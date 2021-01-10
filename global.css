@@ -20,10 +20,12 @@ body {
 	font-weight: 400 !important;
 }
 
-b, strong {
-	font-weight: 800 !important;
-}
-
+/* 見出し設定 */
 h2, h3, h4, h5, h6 {
 	font-weight: 400 !important;
+}
+
+/* 文字装飾設定 */
+b, strong {
+	font-weight: 800 !important;
 }
