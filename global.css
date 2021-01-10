@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+h1#title {
+	font-size: 3em;
+	font-weight: normal;
+}
+
+body {
+	font-family: "Hiragino Sans", "Yu Gothic UI", "Meiryo UI", "Meiryo", "sans-serif";
+}
