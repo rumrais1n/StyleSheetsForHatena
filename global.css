@@ -8,7 +8,7 @@
 /* タイトル */
 h1#title {
 	font-size: 3em !important;
-	font-weight: normal !important;
+	font-weight: 800 !important;
 }
 
 /* 全体設定 */
