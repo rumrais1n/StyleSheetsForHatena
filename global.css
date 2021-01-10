@@ -12,9 +12,9 @@ h1#title {
 
 body {
 	font-family: "M PLUS 1p", "Hiragino Sans", "Yu Gothic UI", "Meiryo UI", "Meiryo", "sans-serif" !important;
-	font-weight: 400;
+	font-weight: 400 !important;
 }
 
-strong {
-	font-weight: 800;
+b, strong {
+	font-weight: 800 !important;
 }
