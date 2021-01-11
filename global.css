@@ -40,7 +40,7 @@ b, strong {
 	font-weight: 800 !important;
 }
 
-/* 959px以下に適用されるCSS */
+/* 解像度の幅が959px以下のデバイスに適用されるCSS */
 @media screen and (max-width: 959px) {
 	
 	/* 全体設定 */
