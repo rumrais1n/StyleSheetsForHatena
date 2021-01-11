@@ -47,9 +47,6 @@ b, strong {
 	#container {
 		max-width: 100% !important;
 	}
-	article {
-		font-size: 300% !important;
-	}
 	/* 画像表示 */
 	article > img {
 		width: 100%;
