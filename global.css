@@ -51,7 +51,7 @@ b, strong {
 	#container {
 		max-width: 100% !important;
 	}
-	#article {
+	article {
 		font-size: 300% !important;
 	}
 	
