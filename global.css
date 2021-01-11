@@ -42,10 +42,6 @@ b, strong {
 
 /* 959px以下に適用されるCSS */
 @media screen and (max-width: 959px) {
-	/* 画像表示 */
-	img {
-		width: 100%;
-	}
 	
 	/* 全体設定 */
 	#container {
@@ -53,6 +49,10 @@ b, strong {
 	}
 	article {
 		font-size: 300% !important;
+	}
+	/* 画像表示 */
+	article > img {
+		width: 100%;
 	}
 	
 	/* ブログタイトル設定 */
