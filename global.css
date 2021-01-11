@@ -76,8 +76,7 @@ b, strong {
 
 	/* フッター設定 */
 	/* アイコン設定 */
-	.profile-icon{
+	.hatena-module, .profile-icon {
 		display: block;
 	}
-
 }
