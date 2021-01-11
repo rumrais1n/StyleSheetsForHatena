@@ -59,8 +59,8 @@ b, strong {
 	}
 	
 	/* 記事設定 */
-	article > ul {
-		padding-left: 45px !important;
+	.entry-content ol, .entry-content ul {
+		padding-left: 28px !important;
 	}
 	
 	/* 外部コンテンツの埋め込みカード */
