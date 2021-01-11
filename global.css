@@ -43,36 +43,36 @@ b, strong {
 /* 959px以下に適用されるCSS */
 @media screen and (max-width: 959px) {
 	/* 画像表示 */
-    img {
-        width: 100%;
-    }
+	img {
+		width: 100%;
+	}
 	
 	/* 全体設定 */
-    #container {
-        max-width: 100% !important;
-    }
-    #article {
-        font-size: 300% !important;
+	#container {
+		max-width: 100% !important;
+	}
+	#article {
+		font-size: 300% !important;
 	}
 	
 	/* 見出し設定 */
-    h1#title {
-        font-size: 200% !important;
+	h1#title {
+		font-size: 200% !important;
 	}
 	
 	/* 記事設定 */
-    ul {
-        padding-left: 45px !important
+	ul {
+		padding-left: 45px !important
 	}
 	
 	/* 外部コンテンツの埋め込みカード */
-    .embed-card, .embed-webcard {
-        max-width: 100% !important;
-    }
-    .embed-content, .embed-title {
-        font-size: 200% !important;
-    }
-    .embed-content, .emtry-content {
-        font-size: 200% !important;
-    }
+	.embed-card, .embed-webcard {
+		max-width: 100% !important;
+	}
+	.embed-content, .embed-title {
+		font-size: 200% !important;
+	}
+	.embed-content, .emtry-content {
+		font-size: 200% !important;
+	}
 }
