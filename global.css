@@ -23,6 +23,10 @@ h1#entry-title {
 	font-size: 1.3em !important;
 	font-weight: 800 !important;
 }
+h2#blog-description {
+	font-family: "Noto Sans JP", "Hiragino Sans", "Yu Gothic UI", "Meiryo UI", "Meiryo", "sans-serif" !important;
+	font-weight: 400 !important;
+}
 
 /* 全体設定 */
 body {
