@@ -47,7 +47,7 @@ b, strong {
 	#container {
 		max-width: 100% !important;
 	}
-	
+
 	/* 画像表示 */
 	article > img {
 		width: 100%;
@@ -73,4 +73,11 @@ b, strong {
 	.embed-content, .emtry-content {
 		font-size: 200% !important;
 	}
+
+	/* フッター設定 */
+	/* アイコン設定 */
+	.profile-icon{
+		display: block;
+	}
+
 }
