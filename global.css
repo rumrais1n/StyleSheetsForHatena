@@ -42,7 +42,7 @@ h2, h3, h4, h5, h6 {
 	font-weight: 600 !important;
 }
 
-/* 記事設定 */
+/* 箇条書き */
 .entry-content ol, .entry-content ul {
 	padding-left: 28px !important;
 }
