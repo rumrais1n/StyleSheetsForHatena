@@ -60,7 +60,7 @@ b, strong {
 
 /* コードブロック */
 pre.code {
-	font-family: "Monaco", "Consolas", "monospace", "Courier", "Courier New", "sans-serif" !important;
+	font-family: "Monaco", "Consolas", "monospace", "Courier New", "Courier", "sans-serif" !important;
 }
 
 /* 解像度の幅が959px以下のデバイスに適用されるCSS */
