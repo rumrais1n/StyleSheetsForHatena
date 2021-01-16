@@ -49,7 +49,7 @@ h2, h3, h4, h5, h6 {
 
 /* 画像 */
 .figure-image > p img, .figure-image > span img {
-	border: 1px #646464 solid !important;
+	border: 1px #dcdcdc solid !important;
 	border-radius: 3px !important;
 }
 
