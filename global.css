@@ -57,6 +57,10 @@ h2, h3, h4, h5, h6 {
 b, strong {
 	font-weight: 800 !important;
 }
+/* コードブロック */
+pre.code {
+	font-family: "Monaco", "Courier", "monospace", "Consolas", "Courier New", "sans-serif" !important;
+}
 
 /* 解像度の幅が959px以下のデバイスに適用されるCSS */
 @media screen and (max-width: 959px) {
