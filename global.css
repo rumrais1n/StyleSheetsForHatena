@@ -13,6 +13,10 @@
 /* https://fonts.google.com/specimen/Yusei+Magic */
 @import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
 
+/* Inconsolata */
+/* https://fonts.google.com/specimen/Inconsolata */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
 /* タイトル */
 h1#title {
 	font-family: "Yusei Magic", "Hiragino Sans", "Yu Gothic UI", "Meiryo UI", "Meiryo", "sans-serif" !important;
@@ -60,7 +64,7 @@ b, strong {
 
 /* コードブロック */
 pre.code {
-	font-family: "Monaco", "Consolas", "monospace", "Courier New", "Courier", "sans-serif" !important;
+	font-family: "Monaco", "Consolas", "Inconsolata", "monospace", "Courier New", "Courier", "sans-serif" !important;
 }
 
 /* 解像度の幅が959px以下のデバイスに適用されるCSS */
