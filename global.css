@@ -63,7 +63,7 @@ b, strong {
 }
 
 /* コードブロック */
-pre.code {
+pre.code, code {
 	font-family: "Monaco", "Consolas", "Inconsolata", "monospace", "Courier New", "Courier", "sans-serif" !important;
 }
 
